@@ -1,0 +1,57 @@
+
+h1{
+	color: blue;
+	text-align: center;
+}
+table{
+	border:2px solid blue;
+	border-collapse: collapse;
+	width: 70%;
+}
+th, td{
+	border: 2px solid blue;
+	padding: 7px;
+	text-align: left;
+}
+th{
+	background-color: lightblue;
+	text-align: center;	
+}
+div{  
+  border:10px;
+  padding: 10px;
+  height: 30px;
+  width: 65%;
+  
+}
+#par{
+  font-size: 13px;
+}
+.name{
+  font-weight: bold;
+  font-size: 14px;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: blue;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
